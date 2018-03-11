@@ -1,0 +1,48 @@
+{
+    "assets": [{
+            "title": "Bedroom 1",
+            "room": "bedroom",
+            "filepath": "images/full-size/BEDROOM_1.jpg"
+        },
+        {
+            "title": "Bedroom 2",
+            "room": "bedroom",
+            "filepath": "images/full-size/BEDROOM 2.jpg"
+        },
+        {
+            "title": "Bathroom 1",
+            "room": "bathroom",
+            "filepath": "images/full-size/BATH_1.jpg"
+        },
+        {
+            "title": "Kitchen 1",
+            "room": "kitchen",
+            "filepath": "images/full-size/KITCHEN 1.jpg"
+        },
+        {
+            "title": "Living 1",
+            "room": "living",
+            "filepath": "images/full-size/LIVING 1.jpg"
+        },
+        {
+            "title": "Living 2",
+            "room": "living",
+            "filepath": "images/full-size/LIVING 2.jpg"
+        },
+        {
+            "title": "Living 3",
+            "room": "living",
+            "filepath": "images/full-size/LIVING 3.jpg"
+        },
+        {
+            "title": "Study 1",
+            "room": "study",
+            "filepath": "images/full-size/STUDY 1.jpg"
+        },
+        {
+            "title": "Study 2",
+            "room": "study",
+            "filepath": "images/full-size/STUDY 2.jpg"
+        }
+    ]
+}
