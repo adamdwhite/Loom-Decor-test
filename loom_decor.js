@@ -15,8 +15,8 @@ var $rooms = $('input[name="roomcheckbox"]');
 $rooms.change(function() {
     var $checked = $rooms.filter(':checked');
     if ($checked.val() == 'kitchen') {
-        $.show('.kitchen-class');
-        $.hide('#');
+        $(".kitchen-content").hide;
+        $('.').show;
 
     } else if ($checked.val() == 'undefined') {
         $.show('everything!')
